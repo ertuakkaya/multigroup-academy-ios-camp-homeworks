@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		97179D902E71F2F800602404 /* hw_6_FromsModelsDetailsFlowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hw_6_FromsModelsDetailsFlowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		97179D902E71F2F800602404 /* hw_6_FormsModelsDetailsFlowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hw_6_FormsModelsDetailsFlowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		97179D912E71F2F800602404 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				97179D902E71F2F800602404 /* hw_6_FromsModelsDetailsFlowApp.app */,
+				97179D902E71F2F800602404 /* hw_6_FormsModelsDetailsFlowApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		97179D8F2E71F2F800602404 /* hw_6_FromsModelsDetailsFlowApp */ = {
+		97179D8F2E71F2F800602404 /* hw_6_FormsModelsDetailsFlowApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 97179D9B2E71F2FA00602404 /* Build configuration list for PBXNativeTarget "hw_6_FromsModelsDetailsFlowApp" */;
+			buildConfigurationList = 97179D9B2E71F2FA00602404 /* Build configuration list for PBXNativeTarget "hw_6_FormsModelsDetailsFlowApp" */;
 			buildPhases = (
 				97179D8C2E71F2F800602404 /* Sources */,
 				97179D8D2E71F2F800602404 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				97179D922E71F2F800602404 /* hw_6_FromsModelsDetailsFlowApp */,
 			);
-			name = hw_6_FromsModelsDetailsFlowApp;
+			name = hw_6_FormsModelsDetailsFlowApp;
 			packageProductDependencies = (
 			);
 			productName = hw_6_FromsModelsDetailsFlowApp;
-			productReference = 97179D902E71F2F800602404 /* hw_6_FromsModelsDetailsFlowApp.app */;
+			productReference = 97179D902E71F2F800602404 /* hw_6_FormsModelsDetailsFlowApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 97179D8B2E71F2F800602404 /* Build configuration list for PBXProject "hw_6_FromsModelsDetailsFlowApp" */;
+			buildConfigurationList = 97179D8B2E71F2F800602404 /* Build configuration list for PBXProject "hw_6_FormsModelsDetailsFlowApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				97179D8F2E71F2F800602404 /* hw_6_FromsModelsDetailsFlowApp */,
+				97179D8F2E71F2F800602404 /* hw_6_FormsModelsDetailsFlowApp */,
 			);
 		};
 /* End PBXProject section */
@@ -301,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		97179D8B2E71F2F800602404 /* Build configuration list for PBXProject "hw_6_FromsModelsDetailsFlowApp" */ = {
+		97179D8B2E71F2F800602404 /* Build configuration list for PBXProject "hw_6_FormsModelsDetailsFlowApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				97179D992E71F2FA00602404 /* Debug */,
@@ -310,7 +310,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		97179D9B2E71F2FA00602404 /* Build configuration list for PBXNativeTarget "hw_6_FromsModelsDetailsFlowApp" */ = {
+		97179D9B2E71F2FA00602404 /* Build configuration list for PBXNativeTarget "hw_6_FormsModelsDetailsFlowApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				97179D9C2E71F2FA00602404 /* Debug */,
